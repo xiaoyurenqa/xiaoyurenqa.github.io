@@ -1,0 +1,11 @@
+---
+layout: posts
+title:  "Welcome!"
+date:   2020-04-16 19:29:31 -0700
+categories: personal
+---
+Self-quarantine can drive people crazy, and my version of insanity is going to GitHub and starting a site. As someone who recently quitted her job, made a brave (maybe dumb) move to a new country that requires 2 weeks of self-isolation, I just have given up all the planning and preparing, follow your heart they say.
+
+I would in no circumstances call myself an expert in software testing, but the past 5 years of experience has taught me a lot. One thing great about working for a big corporation is watching other experts do wonderful things, and being part of it. All the stuff that I will be sharing are not just of my own, but a collection of everything I have learned from people in my life. 
+
+While I created this site intended to share topics in software testing, but it will not be limited to that. I hope this site will be a gallery of the intellectual part of me, everything I can give that may be of some help to people stumbled across this blog.
