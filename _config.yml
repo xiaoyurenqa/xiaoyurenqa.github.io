@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "rxyjp2008@email.com"
+      # url: "rxyjp2008@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:  "https://www.linkedin.com/in/xiaoyu-ren-a6297747/"
 
 # Site Footer
 footer:
@@ -130,9 +133,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:  "https://www.linkedin.com/in/xiaoyu-ren-a6297747/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
