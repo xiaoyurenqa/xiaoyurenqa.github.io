@@ -20,10 +20,10 @@ title                    : "Xiaoyu Ren"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xiaoyu Ren"
-description              : ""
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A personal blog that shares about software QA, life hacks, personal hobbies"
+url                      : "https://xiaoyurenqa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "xiaoyurenqa/xiaoyurenqa"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -51,9 +51,9 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_full_content      : true
+search_provider          : lunr # (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
